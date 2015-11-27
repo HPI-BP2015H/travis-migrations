@@ -1,7 +1,7 @@
 GIT
   remote: git://github.com/travis-ci/travis-core.git
-  revision: 0a229b3083a6ba05d43728a5b1b4ac761e024dbf
-  branch: master
+  revision: 9d17f380222b463a62ea926d92e7c27c6260aac7
+  branch: cd-index-reduce-seq-scans
   specs:
     travis-core (0.0.1)
       actionmailer (~> 3.2.19)
