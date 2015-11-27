@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/travis-ci/travis-core.git
-  revision: 9d17f380222b463a62ea926d92e7c27c6260aac7
+  revision: a106ef7fd172648c4382f866e3ebcf346fcdc05d
   branch: cd-index-reduce-seq-scans
   specs:
     travis-core (0.0.1)
