@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/travis-ci/travis-core.git
-  revision: 9a9f4caa2187734d34e98aa61ba5f4a61bc8a9f5
+  revision: 84d5a4c0c15c37adeb342f29455c9a21c0080933
   branch: cd-add-first-logged-in
   specs:
     travis-core (0.0.1)
